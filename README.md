@@ -1,8 +1,8 @@
 # Actividad 2: Juego de la Víbora.
 
-Master Role: Santiago Ramírez Niño - A01665906.
+Master Role: Gabriel Gutiérrez Guerra - A01660505.
 
-Fork Role: Gabriel Gutiérrez Guerra - A01660505.
+Fork Role: Santiago Ramírez Niño - A01665906.
 
 Semana Tec "Herramientas Computacionales: El Arte de la Programación".
 
